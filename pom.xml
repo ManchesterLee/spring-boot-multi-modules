@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.example</groupId>
-    <artifactId>spring-boot-multi-modules</artifactId>
+    <artifactId>spring-boot-multi-module</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>application/blog-web</module>
@@ -14,7 +14,7 @@
     </modules>
     <packaging>pom</packaging>
 
-    <name>spring-boot-multi-modules-parent</name>
+    <name>spring-boot-multi-module</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
